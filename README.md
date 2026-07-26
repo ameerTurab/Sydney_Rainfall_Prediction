@@ -57,9 +57,7 @@ Confusion Matrix
 
 The Long Short-Term Memory (LSTM) network captures temporal dependencies within weather observations by learning from sequences of previous days. This architecture is particularly suitable for rainfall forecasting because weather patterns evolve over time.
 
-### Model Architecture
 
-![LSTM Model Architecture](images/lstm_model_architecture.png)
 
 ### Training Performance
 

@@ -82,7 +82,7 @@ Confusion Matrix
 
 ---
 
-# 📊 Model Comparison
+# Model Comparison
 
 The overall performance of both deep learning models is summarized below.
 

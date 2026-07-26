@@ -34,9 +34,6 @@ Historical Weather Data
 
 The Dense Neural Network (DNN) is a feed-forward neural network designed to classify whether a day is rainy based on meteorological variables. The model consists of fully connected layers with dropout regularization to reduce overfitting.
 
-### Model Architecture
-
-![Dense Model Architecture](images/dense_model_architecture.png)
 
 ### Training Performance
 

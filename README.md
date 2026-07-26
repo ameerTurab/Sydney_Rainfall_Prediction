@@ -1,4 +1,4 @@
-# 🔄 Project Workflow
+#Project Workflow
 
 ```text
 Historical Weather Data
@@ -28,7 +28,7 @@ Historical Weather Data
            ▼
  Performance Comparison
 ```
-# 🧠 Deep Learning Models
+# Deep Learning Models
 
 ## Dense Neural Network (DNN)
 
